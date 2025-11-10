@@ -9,6 +9,8 @@ En este repositorio construiremos un pequeño juego que servirá como base para 
 **Salomé Villa Londoño**  
 *(Esta sección se personalizará más adelante).*
 
+## 💻 Descripción del proyecto
+Este proyecto buscaba la realización de un videojuego con tres puntos importantes de la programación.
 ---
 
 ## 📚 Recursos para el proyecto
