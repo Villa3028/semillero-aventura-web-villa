@@ -15,11 +15,10 @@ Este proyecto buscaba la realización de un videojuego con tres puntos important
 
 ## 📚 Recursos para el proyecto
 
+## 🕹️ Jugar snake
 
-### 🎥 Video 1 – Introducción al desarrollo web
-[![Video del curso de desarrollo web](https://img.youtube.com/vi/XqFR2lqBYPs/0.jpg)](https://www.youtube.com/watch?v=XqFR2lqBYPs "Ver en YouTube")
 
-> 🔗 Haz clic en la imagen para ver el video en YouTube.
+Para jugar haz click aqui: (https://resplendent-sfogliatella-830e0f.netlify.app/).
 
 ---
 
