@@ -6,7 +6,7 @@ En este repositorio construiremos un pequeño juego que servirá como base para 
 ---
 
 ## 👨‍💻 Autor
-**Daniel Felipe Agudelo Molina**  
+**Salomé Villa Londoño**  
 *(Esta sección se personalizará más adelante).*
 
 ---
